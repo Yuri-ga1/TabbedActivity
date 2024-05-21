@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabbedActivity</string>
+    <string name="title_breaking_bad">Breaking Bad</string>
+    <string name="title_adventure_time">Adventure Time</string>
+    <string name="title_spider_man">Spider-Man</string>
+    <string name="year_2008_2013">2008-2013</string>
+    <string name="year_2010_2018">2010-2018</string>
+    <string name="year_2002">2002</string>
+    <string name="type_serial">Сериал</string>
+    <string name="type_film">Фильм</string>
+</resources>
